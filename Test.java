@@ -4,10 +4,15 @@ class Test {
   void message(String msg);
  // void printMessage(String s);
 
+
+
+ void girdhar();
+
   
   
   
   
   void praveen();
+
 
 }
