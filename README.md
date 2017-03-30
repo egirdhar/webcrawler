@@ -1,6 +1,7 @@
 # webcrawler
 ####
 ###
+######################
 this program requires web url and it would fetch all links to images/text files etc in same or sub domain. 
 this is timeout for 15 secs to read given url. 
 can extend this code to read from more urls from extacted url and limit that with number of urls to prevent this to go in infinite read. 
