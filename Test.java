@@ -1,5 +1,5 @@
 class Test {
 
-  void printMessage(String s);
+ // void printMessage(String s);
 
 }
