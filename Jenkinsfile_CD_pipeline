@@ -1,0 +1,3 @@
+node {
+echo 'message from Jenkinsfile_CD_pipeline'
+}
